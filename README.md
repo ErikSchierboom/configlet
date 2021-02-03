@@ -4,7 +4,7 @@ This is a development version of Configlet for use with v3 of Exercism.
 
 ## Usage
 
-The application is a single binary and can be used as follows:
+The application is a single binary and can be used as follows: 
 
 ```
 Usage:
