@@ -3,9 +3,11 @@ name: tests
 on:
   push:
     paths:
+      - "**"
       - "!**.md"
   pull_request:
     paths:
+      - "**"
       - "!**.md"
   workflow_dispatch:
 
