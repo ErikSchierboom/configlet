@@ -1,6 +1,6 @@
 import std/[os, parseutils, strformat, strutils, terminal]
 import pkg/[cligen/parseopt3]
-
+ 
 type
   Verbosity* = enum
     verQuiet = "quiet"
